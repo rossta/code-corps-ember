@@ -4,7 +4,7 @@
 
 You will need to install the following: 
 
-- [Node.js/npm](https://docs.npmjs.com/getting-started/installing-node) we use the LTS branch
+- [Node.js/npm](https://docs.npmjs.com/getting-started/installing-node) we use the [LTS branch](https://github.com/nodejs/LTS)
 - bower: `npm install -g bower`
 - ember-cli: `npm install -g ember-cli`
 
